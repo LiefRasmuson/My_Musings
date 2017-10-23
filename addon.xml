@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.CarPc-ByLief" version="1.0.0" name="CarPcByLief" provider-name="Lief Rasmuson">
+<addon id="skin.CarPC_Lief" version="1.0.0" name="CarPC_Lief" provider-name="Lief Rasmuson">
 	<requires>
 		<import addon="xbmc.gui" version="5.12.0"/>
 	</requires>
@@ -15,7 +15,7 @@
 		<forum></forum>
 		<website></website>
 		<email></email>
-		<source>https://github.com/LiefRasmuson/My-Musings</source>
+		<source>https://github.com/LiefRasmuson/CarPC_Lief</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
