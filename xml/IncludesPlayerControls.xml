@@ -110,7 +110,7 @@
 					<align>center</align>
 					<aligny>center</aligny>
 					<textcolor>black</textcolor>
-					<label></label>
+					<!--<label>sorry, i'll put your name somewhere else, here was too distracting for me</label>-->
 				</control>
 			</control>
 		</control>
